@@ -1,4 +1,3 @@
-// components/analyzer/AnalyzerSection.jsx
 import React, { useState, useEffect } from 'react';
 import { 
   Shield, 

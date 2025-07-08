@@ -33,7 +33,7 @@ export const AuthProvider = ({ children }) => {
           }
         }
 
-        // Crear usuarios demo si no existen
+    
         const users = JSON.parse(localStorage.getItem('mikrotik_users') || '[]');
         if (users.length === 0) {
           const demoUsers = [

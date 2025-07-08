@@ -1,4 +1,3 @@
-// components/dashboard/Header.jsx
 import React from 'react';
 import { LogOut, User, Wifi, WifiOff } from 'lucide-react';
 
